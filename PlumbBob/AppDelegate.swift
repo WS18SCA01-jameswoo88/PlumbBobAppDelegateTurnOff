@@ -13,7 +13,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?;
     //var plumbBob: PlumbBob = PlumbBob();
-    var viewController: ViewController?
+//    var viewController: ViewController?
     let plumbBob: PlumbBob = PlumbBob()
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
